@@ -1,0 +1,124 @@
+[ACCOUNT]
+character-username = mr impact
+character-password = wilson
+
+[CHARACTER]
+character-height = 0
+character-posx = 3092
+character-posy = 3530
+character-rights = 3
+crystal-bow-shots = 0
+VLS-hits = 0
+skull-timer = 839
+EP = 0
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+gwdelay = 0
+Altar = 1
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+pk-points = 0
+isDonator = 1
+slayerTask = 0
+xpLock = false
+Agrith = false
+Flambeed = false
+Karamel = false
+Dessourt = false
+culin = false
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+trade11 = 0
+SpeDelay = 0
+barrowskillcount = 0
+flagged = false
+Jailed = false
+wave = -1
+fightMode = 2
+Monkey-Kc = 0
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	4716	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	4718	1	
+character-equip = 4	4720	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	4722	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	11732	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	127	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	18
+character-look = 3	27
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	11
+character-look = 8	8
+character-look = 9	1
+character-look = 10	2
+character-look = 11	0
+character-look = 12	6
+
+[SKILLS]
+character-skill = 0	99	14492160
+character-skill = 1	99	14391160
+character-skill = 2	99	14941160
+character-skill = 3	17	14639988
+character-skill = 4	99	14482160
+character-skill = 5	46	14391360
+character-skill = 6	99	14395340
+character-skill = 7	99	14391160
+character-skill = 8	99	14391160
+character-skill = 9	99	14391160
+character-skill = 10	99	14391160
+character-skill = 11	99	14391160
+character-skill = 12	99	14391160
+character-skill = 13	99	14391160
+character-skill = 14	99	14391160
+character-skill = 15	99	14391160
+character-skill = 16	99	14391160
+character-skill = 17	99	14410360
+character-skill = 18	99	14391160
+character-skill = 19	99	14391160
+character-skill = 20	99	14391160
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	5699	1
+character-item = 1	4152	1
+character-item = 2	7463	1
+character-item = 3	10552	1
+character-item = 4	8851	1
+
+[BANK]
+
+[FRIENDS]
+
+[EOF]
+

@@ -1,0 +1,148 @@
+[ACCOUNT]
+character-username = north africa
+character-password = lolblue
+
+[CHARACTER]
+character-height = 0
+character-posx = 3094
+character-posy = 3497
+character-rights = 0
+crystal-bow-shots = 0
+VLS-hits = 0
+skull-timer = -1
+EP = 0
+magic-book = 1
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+gwdelay = 0
+Altar = 0
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+pk-points = 0
+isDonator = 0
+slayerTask = 0
+xpLock = false
+Agrith = false
+Flambeed = false
+Karamel = false
+Dessourt = false
+culin = false
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+trade11 = 0
+SpeDelay = 0
+barrowskillcount = 0
+flagged = false
+Veng = 0
+Jailed = false
+wave = 0
+fightMode = 2
+Monkey-Kc = 0
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	45	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	18
+character-look = 3	27
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	11
+character-look = 8	11
+character-look = 9	1
+character-look = 10	2
+character-look = 11	3
+character-look = 12	6
+
+[SKILLS]
+character-skill = 0	99	13035436
+character-skill = 1	1	5
+character-skill = 2	99	13364436
+character-skill = 3	99	13223640
+character-skill = 4	99	13152436
+character-skill = 5	99	13034436
+character-skill = 6	99	13151320
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4152	1
+character-item = 1	6738	1
+character-item = 2	4676	1
+character-item = 3	3843	1
+
+[BANK]
+character-bank = 0	2504	1
+character-bank = 1	2498	1
+character-bank = 2	1080	1
+character-bank = 3	1128	1
+character-bank = 4	4588	1
+character-bank = 5	1726	1
+character-bank = 6	1713	1
+character-bank = 7	4094	1
+character-bank = 8	4092	1
+character-bank = 9	4676	1
+character-bank = 10	386	500
+character-bank = 11	2551	1
+character-bank = 12	561	2000
+character-bank = 13	556	3000
+character-bank = 14	558	2000
+character-bank = 15	9076	1000
+character-bank = 16	566	1000
+character-bank = 17	10829	1
+character-bank = 18	392	967
+character-bank = 19	2435	95
+character-bank = 20	2437	98
+character-bank = 21	2441	98
+character-bank = 22	2443	98
+character-bank = 23	996	6617999
+
+[FRIENDS]
+
+[EOF]
+
